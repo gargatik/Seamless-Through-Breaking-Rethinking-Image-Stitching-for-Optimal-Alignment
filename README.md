@@ -1,4 +1,5 @@
 # Stitching
+download our paper https://github.com/gargatik/Seamless-Through-Breaking-Rethinking-Image-Stitching-for-Optimal-Alignment/blob/master/Stitching_Through_Breaking.pdf
 
 ## Dataset (UDIS-D)
 We use the UDIS-D dataset to train and evaluate our method. Please refer to [UDIS](https://github.com/nie-lang/UnsupervisedDeepImageStitching) for more details about this dataset.
