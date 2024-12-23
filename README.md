@@ -28,7 +28,7 @@ pip install opencv-contrib-python-headless
 python evaluate.py --data_dir ./data/UDIS/UDIS-D/
 ```
 
-## INFLUENCE
+## INFRENCE
 ```Shell
 python out.py  --data_root_path ./demo/ --inf_cfg "all_img1_with_inpaint_g12_transRef"
 
