@@ -4,6 +4,9 @@ download our paper https://github.com/gargatik/Seamless-Through-Breaking-Rethink
 ## Dataset (UDIS-D)
 We use the UDIS-D dataset to train and evaluate our method. Please refer to [UDIS](https://github.com/nie-lang/UnsupervisedDeepImageStitching) for more details about this dataset.
 
+## ckpt directory
+download ckpt here https://drive.google.com/drive/folders/1J5fiMcw4f2c2hlcfpq2lk-Is6iJmBZeo?usp=sharing
+
 ## Requirements
 ```Shell
 conda create -y --name stitching
